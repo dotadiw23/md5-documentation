@@ -34,3 +34,9 @@ Cuando un proveedor de un fichero expone lo expone para uso general puede public
 - https://owasp.deteact.com/cheat/cheatsheets/Password_Storage_Cheat_Sheet.html
 - https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html
 - https://www.avast.com/es-es/c-md5-hashing-algorithm
+
+## Integrantes
+- Andrés Bonilla
+- Juan Diego Melo
+- Andrés Pájaro
+- Armando Rojas
